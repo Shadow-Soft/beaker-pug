@@ -1,0 +1,12 @@
+{
+  "name": "Test Driven Development w/ Beaker",
+  "highlight": "solarized_dark",
+  "protected": ["presenter", "onepage"],
+  "user": "shadowsoft",
+  "password": "shadowsoft",
+  "favicon": "/file/favicon.ico",
+  "feedback": true,
+  "sections": [
+    {"section": "Presentation"}
+  ]
+}
